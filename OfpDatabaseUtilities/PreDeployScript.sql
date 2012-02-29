@@ -22,7 +22,7 @@ GO
 /* (Re)load the assembly */
 /*  NOTE:  This assembly works within the database and so doesn't need any special permissions */
 CREATE Assembly OfpDatabaseUtilities From
-'C:\Users\coreyc\Documents\Visual Studio 2010\Projects\OfpDatabaseUtilities\OfpDatabaseUtilities\bin\Debug\OfpDatabaseUtilities.dll'
+'C:\Users\coreyc\Documents\Visual Studio 2010\Projects\OfpDatabaseUtilities\OfpDatabaseUtilities\bin\Release\OfpDatabaseUtilities.dll'
 GO
 
 -- FnSplitNumberString splits a string into integer values with the default delimiter (,)
